@@ -1,2 +1,2 @@
 # splashscreen_template
-
+text
