@@ -1,4 +1,4 @@
-# splashscreen_template
+# splashscreen_template.ino
 
 <a name="splashscreen_template"></a>
 
