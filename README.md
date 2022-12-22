@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/3x0c3t/splashscreen_template">
+  <a href="https://www.3x0c3t.com/IMG/splashscreen_template.jpeg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
